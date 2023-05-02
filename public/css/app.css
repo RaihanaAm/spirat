@@ -43,7 +43,7 @@ header ul a {
   position: relative;
 }
 .first .image {
-  background-image: url(../../../../public/images/images/banner.jpg);
+  background-image: url(../images/images/banner.jpg);
   position: relative;
   filter: brightness(0.5);
   height: 90vh;
@@ -138,7 +138,7 @@ header ul a {
 .third .cards .card-1 .image-1 {
   width: 25vw;
   height: 45vh;
-  background-image: url(../images/pic01.jpg);
+  background-image: url(../images/images/pic01.jpg);
 }
 .third .cards .card-1 .text-card {
   text-align: center;
@@ -154,7 +154,7 @@ header ul a {
 .third .cards .card-2 .image-2 {
   width: 25vw;
   height: 45vh;
-  background-image: url(../../../../public/images/images/pic02.jpg);
+  background-image: url(..//images/images/pic02.jpg);
 }
 .third .cards .card-2 .text-card {
   text-align: center;
@@ -209,7 +209,7 @@ header ul a {
   justify-content: center;
 }
 .circles .c-circles .c-first .circle-left .cl-image .img {
-  background-image: url(../../../../public/images/images/pic04.jpg);
+  background-image: url(../images/images/pic04.jpg);
   border-radius: 50%;
   width: 140px;
   height: 140px;
@@ -246,7 +246,7 @@ header ul a {
   justify-content: center;
 }
 .circles .c-circles .c-first .circle-right .cl-image .img {
-  background-image: url(../../../../public/images/images/pic04.jpg);
+  background-image: url(../images/images/pic04.jpg);
   border-radius: 50%;
   width: 140px;
   height: 140px;
@@ -274,7 +274,7 @@ header ul a {
 .background .image {
   margin-top: 90px;
   height: 50vh;
-  background-image: url(../../../../public/images/images/banner.jpg);
+  background-image: url(../images/images/banner.jpg);
   background-position: center;
   filter: brightness(0.3);
 }
