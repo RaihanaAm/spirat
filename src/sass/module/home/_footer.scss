@@ -1,0 +1,40 @@
+.footer{
+    position: relative;
+    background-color: $background;
+    height: 300px;
+    .icons{
+        position:absolute;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        width: 30vw;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        i{
+            font-size: 30px;
+            color: $gray;
+        }
+    }
+    .copywrite{
+        position:absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        width: 40vw;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        color: $gray;
+        // gap: 25px;
+        p{
+            padding: 0 0px;
+            
+        }
+        .border {
+            padding: 0 20px;
+            border-left:  1px solid $gray;
+            border-right:  1px solid $gray;
+        }
+    }
+}
